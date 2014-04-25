@@ -1,0 +1,11 @@
+[ui]
+username = Tatu Kairi <tatu.kairi@eficode.com>
+editor = vim
+
+[pager]
+pager = LESS='FRX' less
+
+[extensions]
+color =
+purge = 
+pager =
